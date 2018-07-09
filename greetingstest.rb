@@ -1,4 +1,3 @@
 name = gets
-Sarah = name
-puts "Hello,name"
+puts "Hello,#{name}"
 
