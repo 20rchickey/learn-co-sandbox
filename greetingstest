@@ -1,4 +1,4 @@
 name=gets
-Sarah=name
-puts "Hello, name"
+Sarah = name
+puts "Hello,name"
 
